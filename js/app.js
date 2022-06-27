@@ -86,4 +86,13 @@ alert(`Felicitaciones ${nombre2} Adivinaste el numero!`);
  */
 
 
+/* Ejemplo con While */
 
+/* let numeroelegido = 7;
+let nombre2 = prompt('Hola como te llamas?')
+let numeroingresado = parseInt(prompt(`Perfecto ${nombre2} Juguemos un juego.. ingresa un numero  del 1 al 15`));
+
+while (numeroingresado !=numeroelegido) {
+    numeroingresado= prompt(`Ese no era el numero ${nombre2}!.Por favor escoge otro numero`);
+}
+alert('Perfecto elegiste bien'); */
